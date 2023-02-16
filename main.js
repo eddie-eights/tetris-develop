@@ -32,7 +32,7 @@ function gameStart() {
 	if (dropSpeed === 900) {
 		deleteMissions = 3;
 	} else if (dropSpeed === 600) {
-		deleteMissions = 1;
+		deleteMissions = 5;
 	} else if (dropSpeed === 300) {
 		deleteMissions = 7;
 	}

@@ -23,7 +23,7 @@ recursion のチーム開発で、三名で作成したタイムアタックテ�
 https://eddie-eights.github.io/tetris-develop/
 
 >SP
-<img width="100%" alt="image" src="./imgs/QR_535680.png">
+<img width="300px" height="auto" alt="image" src="./imgs/QR_535680.png">
 
 # 使用技術
 

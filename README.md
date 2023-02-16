@@ -1,3 +1,7 @@
+# tetris
+
+recursion のチーム開発で、三名で作成したタイムアタックテトリスです。
+
 # demo
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/109569162/215386051-e430e70b-4875-4e10-803c-af6fd6012ca3.png">
 <img width="749" alt="スクリーンショット_20230130_131653" src="https://user-images.githubusercontent.com/109569162/215654790-145e0644-d5c5-4aac-9536-11268d4c1b29.png">

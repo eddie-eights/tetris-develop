@@ -66,7 +66,7 @@ function startTetris() {
 	displayBlock(config.mainPage);
 	gameStart();
 	MUSIC.currentTime = 0;
-	MUSIC.volume = 0.6;
+	MUSIC.volume = 0.3;
 	MUSIC.play();
 }
 
@@ -531,7 +531,7 @@ function isGameClear() {
 
 function notifyUsersGameClear() {
 	message["title"] = "Game Clear !!";
-	message["msg"] = "おめでとうございます！あなたは価値のある人間です！";
+	message["msg"] = "クリアおめでとうございます！！";
 	document.getElementById("modal-btn").dispatchEvent(new Event("click"));
 	config.clearPage.style.visibility = "visible";
 	config.clearPage.style.zIndex = 100;
